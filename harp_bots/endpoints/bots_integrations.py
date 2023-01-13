@@ -30,8 +30,8 @@ class CreateBot(Resource):
                 "bot_name": "Voice",
                 "status": "pending",
                 "config": {
-                    "TWILIO_ACCOUNT_SID": "ACd4b2283ec38698625122cb4ca94e85e0",
-                    "TWILIO_AUTH_TOKEN": "031b2db96149503baf279e1a4748f244",
+                    "TWILIO_ACCOUNT_SID": "****",
+                    "TWILIO_AUTH_TOKEN": "*****",
                     "TWILIO_PHONE_NUMBER": "+14158739892"
                 }
             }
